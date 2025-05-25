@@ -1,1 +1,15 @@
-hhhh
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Code Experts</title>
+  <script>
+    window.onload = function() {
+      alert("Hello, it's Code Experts");
+    };
+  </script>
+</head>
+<body>
+  <!-- Your website content goes here -->
+</body>
+</html>
